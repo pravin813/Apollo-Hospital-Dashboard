@@ -69,7 +69,9 @@ It helps stakeholders track hospital efficiency, improve patient care, and optim
 | Power BI Desktop       | Dashboard creation                        |
 | Slicers                | Dynamic filtering (Date Range, Patient ID)|
 | Card Visuals           | Display KPIs (amounts, dates)             |
-| Bar/Column Charts      | Diagnosis distribution and feedback       |
+| Bar Charts             | Bed Occupancy                             |
+| Funnel Charts          | Diagnosis distribution                    |
+| Donut Charts           | Feedback of Doctors
 | Line Charts            | Billing vs Insurance trend analysis       |
 | Custom Themes          | Apollo Hospital branding                  |
 
