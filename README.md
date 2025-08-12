@@ -96,5 +96,5 @@ This dashboard provides actionable insights for:
 
 ## Dashboard Preview
 
-![Apollo Hospital Dashboard](screenshots/apollo-hospital-dashboard.png)
+https://github.com/pravin813/Apollo-Hospital-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
